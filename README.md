@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hurry-hub
+- 👋 Hi, I’m Hurry Rechard
 - 👀 I’m interested in crytography
-- 🌱 I’m currently learning OS,crytography,system security
-- 💞️ I’m looking to collaborate on OS security
-- 📫 How to reach me 2539444133@qq.com
+- 🌱 I’m currently learning crytography, deepfake detection
+- 💞 I’m looking to collaborate on deepfake
+- 📫 How to reach me whu_hurry@163.com
 
 <!---
 hurry-hub/hurry-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
